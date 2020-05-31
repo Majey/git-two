@@ -1,0 +1,95 @@
+*{box-sizing:border-box;}
+body{
+    background:#0D5AD9;
+    font-family:sans-serif;
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    padding:0px;
+    margin:0px;
+}
+
+main{
+    min-width:30%;
+    background:green;
+    padding: 20px 20px 5px 20px;
+    margin:20px 20px 10px 20px;
+    font-size:12.7px;
+}
+
+a{
+    text-decoration:none;
+}
+
+p{
+    text-align:center;
+}
+
+input{
+    width:100%;
+    margin:0px;
+    padding:5px 0px 5px 0px;
+}
+
+button{
+    width:100%
+}
+.linkedin-sign-up{
+    position:relative;
+}
+
+.LinkedIn-logo{
+    height:50px;
+    padding:10px;
+    margin:0px;
+}
+
+.tagline{
+    color:white;
+    font-size:30px;
+}
+
+.description{
+    text-align: center;
+}
+.or{
+    position:absolute;
+    top:76%;
+    right:50%;
+    background-color:green;
+    
+}
+
+.facebook{
+    background:#3C5A99;
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/archive/1/1b/20140221023021%21Facebook_icon.svg");
+    background-repeat:no-repeat;
+    background-size:25px 25px;
+    padding:5px;
+    color:white;
+}
+
+.facebook a{
+    color:white;
+}
+
+.join-now{
+    background:#0D5AD9;
+    padding:5px;
+}
+
+.join-now a{
+    color:white;
+    font-weight:bolder;
+}
+.hr{
+    width:47%; 
+    display:inline-block; 
+    
+}
+
+
+
+
+
+
